@@ -1,0 +1,15 @@
+01basic/node_modules/
+01vitereact/node_modules/
+02counter/node_modules/
+03tailwindprops/node_modules/
+04bgChanger/node_modules/
+05PasswordGenerator/node_modules/
+06currencyConverter/node_modules/
+07reactRouter/node_modules/
+08minContext/node_modules/
+09themeswitcher/node_modules/
+10todocontextLocal/node_modules/
+11reduxtoolkittodo/node_modules/
+12MegaBlog/node_modules/
+12MegaBlog/.env
+customreact/node_modules/
